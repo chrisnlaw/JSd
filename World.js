@@ -20,10 +20,6 @@ class City {
         return this.corn;
     }
 
-    get gaincor() {
-        return this.gaincorn;
-    }
-
     get unitsLis() {
         return this.unitsList;
     }
