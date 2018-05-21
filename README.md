@@ -28,7 +28,8 @@ If you attack a city and you loose :
 - You lost 50% of your ressources
 - Each of the units in your army have 40% chance to die
  
- ''' if (unitsList.length > unitsList2.length) {
+  '''
+ if (unitsList.length > unitsList2.length) {
             City.ressource = City.ressource + City2.ressource*0.5;
 
         }
