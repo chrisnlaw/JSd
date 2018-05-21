@@ -14,7 +14,15 @@ For our game, we made :
 
 ## Cities :
 
-Each cities have ressources which are corn and gold, you can then make offer with it to your God. The God will randomly give you more ressources, you'll never lost ressources with offers. You can also make units for your army with ressources, each units will be stack in an array.
+Each cities have ressources which are corn and gold, you can then make offer with it to your God. The God will randomly give you more ressources, you'll never lost ressources with offers. 
+You can also make units for your army with ressources, each units will be stack in an array.
+       
+        var unitsList = new Array(Math.floor(Math.random() * 1000));
+
+        for (let i = 0; i < unitsList.length; i++) {
+            unitsList[i] = new Units(false);
+        }
+    }
 
 ## War :
 
