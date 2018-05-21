@@ -1,4 +1,4 @@
-### Launay, Chantharath, Chandelier, Vaucher, Bara, Roussel
+### Launay Christian, Chantharath Alfred, Chandelier Louis, Vaucher Coralie, Bara Rémi, Roussel Aliaume
 
 ## Context :
 
